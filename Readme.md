@@ -1,3 +1,3 @@
 # 学习大纲
 
-## [在第零课:我要带你们理解3个数字, 166](Chapter0/RightMethod.md)
+## [第零课:找对方法，才有资格说“速成”](Chapter0/RightMethod.md)
