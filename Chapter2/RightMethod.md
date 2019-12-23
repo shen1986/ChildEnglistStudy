@@ -42,7 +42,7 @@ Is lying bad for your health?
 ❹ give my sister to you in marriage把我姐嫁给你
 ❺ once we are out of here一旦我们离开这儿
 ❻ It cannot be so.不能这样/不能这么办/不能这么干
-❼ ccording to our family tradition根据我们的家庭传统
+❼ according to our family tradition根据我们的家庭传统
 ❽ marry an outsider娶个外人
 ❾ How come为啥/为什么/咋回事
 ❿ there is such a family custom有这么个家庭习惯/有这么个家规

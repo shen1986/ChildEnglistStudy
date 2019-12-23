@@ -6,3 +6,5 @@
 ## [第一课:文猜查记(上)](Chapter1/RightMethod.md)
 
 ## [第二课:文猜查记(下)](Chapter2/RightMethod.md)
+
+## [第三课:英语语法真正意义上的60分](Chapter3/RightMethod.md)
