@@ -1,5 +1,5 @@
 # 学习大纲
-- 把自己学到的内容总结一下。
+- 给我家里人看的。本来不想公开，我老婆不争气，连个邮箱都弄不来。
 
 ## [第零课:找对方法，才有资格说“速成”](Chapter0/RightMethod.md)
 
@@ -7,4 +7,10 @@
 
 ## [第二课:文猜查记(下)](Chapter2/RightMethod.md)
 
-## [第三课:英语语法真正意义上的60分](Chapter3/RightMethod.md)
+## [第三课:汉英对照学语法-上](Chapter3/RightMethod.md)
+
+## [第四课:汉英对照学语法-下](Chapter4/RightMethod.md)
+
+## [第五课:看到词句就会读-上](Chapter5/RightMethod.md)
+
+## [第五课:看到词句就会读-下](Chapter6/RightMethod.md)
