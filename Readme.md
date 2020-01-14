@@ -13,4 +13,4 @@
 
 ## [第五课:看到词句就会读-上](Chapter5/RightMethod.md)
 
-## [第五课:看到词句就会读-下](Chapter6/RightMethod.md)
+## [第六课:看到词句就会读-下](Chapter6/RightMethod.md)
