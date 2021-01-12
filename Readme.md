@@ -14,3 +14,8 @@
 ## [第五课:看到词句就会读-上](Chapter5/RightMethod.md)
 
 ## [第六课:看到词句就会读-下](Chapter6/RightMethod.md)
+
+## 自己总结
+
+- 专有名词是否要带冠词
+    + [专有名词是否要带冠词](https://en-grammar.xiao84.com/201412/22729.html)
